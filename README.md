@@ -1,0 +1,1 @@
+This is a learning project for setting up the git repository.
